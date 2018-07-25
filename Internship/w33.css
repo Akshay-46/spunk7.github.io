@@ -1,0 +1,32 @@
+
+.navbar-header{
+
+	height: 50px;
+
+}
+form{
+	align-content: right;
+
+}
+.related-content{
+	background-color: white;
+	min-height: 900px;
+}
+.main-content{
+	min-height: 900px;
+}
+.span{
+	align-content: center;
+}
+.Books{
+	height: auto;
+	width: 70%;
+}
+footer{
+	height:100px;
+	background: white;
+	background-color: white;
+	padding: 5px;
+	margin: 5px;
+	text-align: left to right ;
+}
